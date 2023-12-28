@@ -12,6 +12,7 @@
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
     "@hookform/resolvers": "^3.3.2",
+    "jwt-decode": "^4.0.0",
     "next": "14.0.4",
     "pixelarticons": "^1.7.0",
     "react": "^18",
